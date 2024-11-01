@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <h2>hehe</h2>
-      <Button>Concac</Button>
+      
     </div>
   );
 }
